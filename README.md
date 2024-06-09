@@ -7,11 +7,8 @@
 
 Welcome to the Led-Controller project! This project comprises a mobile app built with Flutter and a controller using Arduino and PlatformIO. The main purpose is to control LED strips with a variety of colors and effects. The mobile app offers a user-friendly interface to modify colors and control the LED strip, and the Arduino code leverages the FastLED library for LED programming.
 
-[Watch Video of FireLed](images/fireled.mp4)
+#### **Git tree cutted out for this public remote. 🐛**
 
-[Watch Video of Comet](images/cometled.mp4)
-
-Comet color is modifiable with colorpalette and ok.
 
 ## Features
 
