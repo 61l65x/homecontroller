@@ -1,11 +1,11 @@
 <div style="display: flex; align-items: center;">
   <img src="images/ledstripper.png" alt="Your Image Alt Text" width="75" height="75">
-  <h1 style="margin-left: 10px;">Led-Controller</h1>
+  <h1 style="margin-left: 10px;">homecontroller</h1>
 </div>
 
 ## Overview
 
-Welcome to the Led-Controller project! This project comprises a mobile app built with Flutter and a controller using Arduino and PlatformIO. The main purpose is to control LED strips with a variety of colors and effects. The mobile app offers a user-friendly interface to modify colors and control the LED strip, and the Arduino code leverages the FastLED library for LED programming.
+Welcome to the homecontroller project! This project comprises a mobile app built with Flutter and a controller using Arduino and PlatformIO. The main purpose is to control LED strips with a variety of colors and effects. The mobile app offers a user-friendly interface to modify colors and control the LED strip, and the Arduino code leverages the FastLED library for LED programming.
 
 #### **Git tree cutted out for this public remote. 🐛**
 
@@ -49,7 +49,7 @@ To replicate this project, you will need a controller with a Wi-Fi chip. The cod
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Jallunator/MyLEDControlAPP.git
+    git clone https://github.com/61l65x/homecontroller.git
     ```
 
 2. Follow the setup instructions for both the mobile app (Flutter) and the LED controller (Arduino).
